@@ -99,7 +99,7 @@ tar -xvf latest.tar.gz
 
 ![image](https://github.com/user-attachments/assets/8f1f6568-59d4-4504-bf38-1bfc4957fc00)
 
-#### Change the directory to the WordPress directory and create a copy of the default config file using the following commands. Open the wpconfig.php file
+#### Change the directory to the WordPress directory and create a copy of the default config file using the following commands. Open the wp-config.php file
 
 ![image](https://github.com/user-attachments/assets/e2187b8c-a07c-4aff-909d-ba7bc8fde4f7)
 
