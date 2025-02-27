@@ -47,8 +47,7 @@ apt install mysql-server -y
 ````
 mysql -h <rds-database-endpoint> -u <user> -p<password>
 ````
-#### Finally, create a database user for your WordPress application and give 
-the user permission to access the wordpress database.
+#### Finally, create a database user for your WordPress application and give the user permission to access the wordpress database.
 
 #### Run the following commands in your terminal:
 ````
