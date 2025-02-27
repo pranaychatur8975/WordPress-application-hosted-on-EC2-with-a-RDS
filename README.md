@@ -1,6 +1,5 @@
 # WordPress-application-hosted-on-EC2-with-a-RDS
-#### Create security group and allow MySQL/MariaDB: 3306 in 
-inbound rule
+#### Create security group and allow MySQL/MariaDB: 3306 in inbound rule
 
 ![image](https://github.com/user-attachments/assets/247af0f0-2caf-4eb1-9ba3-13498a458e81)
 
