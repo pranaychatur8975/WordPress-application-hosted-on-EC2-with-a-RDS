@@ -72,8 +72,7 @@ apt-get install apache2 -y
 ````
 ![image](https://github.com/user-attachments/assets/4a250f7b-9fb2-4b4e-b1fb-6d31660f920e)
 
-#### To start the Apache web server, run the following command in your 
-terminal
+#### To start the Apache web server, run the following command in your terminal
 
 ````
 systemctl restart apache2
@@ -83,8 +82,7 @@ systemctl restart apache2
 
 ![image](https://github.com/user-attachments/assets/b768c24c-d112-48aa-b5f2-8c43434297e1)
 
-#### First, download and uncompressed the software by running the 
-following commands in your terminal:
+#### First, download and uncompressed the software by running the following commands in your terminal:
 
 ````
 wget https://wordpress.org/latest.tar.gz
@@ -101,8 +99,7 @@ tar -xvf latest.tar.gz
 
 ![image](https://github.com/user-attachments/assets/8f1f6568-59d4-4504-bf38-1bfc4957fc00)
 
-#### Change the directory to the WordPress directory and create a copy of 
-the default config file using the following commands. Open the wpconfig.php file
+#### Change the directory to the WordPress directory and create a copy of the default config file using the following commands. Open the wpconfig.php file
 
 ![image](https://github.com/user-attachments/assets/e2187b8c-a07c-4aff-909d-ba7bc8fde4f7)
 
@@ -116,15 +113,11 @@ previous steps
 endpoint
 ![image](https://github.com/user-attachments/assets/0facc047-fbe7-4610-aeda-5a4aed74eb02)
 
-#### The second configuration section you need to configure is the 
-Authentication Unique Keys and Salts.
-You can replace the entire content in that section with the help of 
-WordPress Secret Key Generator on google or GPT.
+#### The second configuration section you need to configure is the Authentication Unique Keys and Salts.You can replace the entire content in that section with the help of WordPress Secret Key Generator on google or GPT.
 
 ![image](https://github.com/user-attachments/assets/79a09e98-2dfc-46d2-841d-09a945c716fa)
 
-#### First, install the application dependencies you need for WordPress. In 
-your terminal, run the following command.
+#### First, install the application dependencies you need for WordPress. In your terminal, run the following command.
 ````
 sudo apt install php libapache2-mod-php php-mysql -y
 ````
