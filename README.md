@@ -5,8 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/9332a993-17c1-40aa-ba8d-3716d5d10567)
 
-#### First create database Go to the Amazon RDS console. Click 
-“Create database”.
+#### First create database Go to the Amazon RDS console. Click “Create database”.
 
 ![image](https://github.com/user-attachments/assets/9ba93aab-cdd0-409e-ada2-4b777cceda31)
 
